@@ -4,7 +4,7 @@ These Enterprise project examples leverage a Layered Seperation Design Pattern f
 
 **Key Benefits:**
 - **Tuple Intellisense** Design Time intellisense Tuple matching for datafieldds to Ui properties
-- **Intuitive UI Logic**: The use of tuples for property assignments simplifies the synchronization between UI components and database fields.
+- **Intuitive UI Logic**: The use of tuples for property assignments simplifies the synchronization betwfeen UI components and database fields.
 - **Separation of Concerns**: Introducing a 'CRUD' database layer to uncouple UI elements from core business processes.
 - **Centralized Business Logic**: Migrating logic to the CRUD layer fosters a more maintainable and organized code structure.
 - **Enhanced Testing**: Incorporating unit testing to ensure application stability and integrity.
